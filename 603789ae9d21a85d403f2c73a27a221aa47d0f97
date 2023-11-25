@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d714d203_978ce366",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1037165
+      },
+      "writtenOn": "2023-11-25T18:24:39Z",
+      "side": 1,
+      "message": "nice",
+      "revId": "603789ae9d21a85d403f2c73a27a221aa47d0f97",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b9786ec3_d6bc8f22",
+        "filename": "Hello.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1037165
+      },
+      "writtenOn": "2023-11-25T18:24:39Z",
+      "side": 1,
+      "message": "Comment",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 12
+      },
+      "revId": "603789ae9d21a85d403f2c73a27a221aa47d0f97",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
